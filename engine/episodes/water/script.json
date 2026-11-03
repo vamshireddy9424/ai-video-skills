@@ -1,0 +1,153 @@
+{
+  "title": "Hyderabad ki neellu aagipothe? El Niño water crisis",
+  "lead": 0.8,
+  "music": "bed-ambient",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "RmsECPYd2k7yLIMTl1cR",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "hook",
+      "tone": "[worried]",
+      "text": "October లో Hyderabad లో {88mm|ఎనభై ఎనిమిది మిల్లీమీటర్ల} వర్షం పడాలి. [whispers] పడింది ఎంతో తెలుసా? [shocked] కేవలం {2.8mm|రెండు పాయింట్ ఎనిమిది మిల్లీమీటర్లు}."
+    },
+    {
+      "id": "s2",
+      "scene": "globe",
+      "tone": "[serious]",
+      "text": "దీనికి కారణం El Niño. Pacific Ocean లో గాలులు బలహీనపడి, వేడి నీళ్లు తూర్పు వైపు జారిపోతాయి. India కి రావాల్సిన monsoon మేఘాలు కూడా దూరం వెళ్ళిపోతాయి."
+    },
+    {
+      "id": "s3",
+      "scene": "globe",
+      "tone": "[amazed]",
+      "text": "ఈసారి El Niño record స్థాయిలో ఉంది. Ocean normal కంటే {+4°C|నాలుగు డిగ్రీలు} వేడిగా ఉంది. {1997|పంతొమ్మిది వందల తొంభై ఏడు} record కూడా బద్దలైంది."
+    },
+    {
+      "id": "s4",
+      "scene": "monsoon",
+      "tone": "[sad]",
+      "text": "ఫలితం? Telangana లో వర్షం {17%|పదిహేడు శాతం} తక్కువ పడింది. {365|మూడు వందల అరవై ఐదు} mandals ని drought mandals గా ప్రకటించారు."
+    },
+    {
+      "id": "s5",
+      "scene": "sources",
+      "tone": "[curious]",
+      "text": "అసలు Hyderabad కి నీళ్లు ఎక్కడి నుంచి వస్తాయి? సగం నీళ్లు Krishna నది మీద ఉన్న Nagarjuna Sagar నుంచి. మిగతావి Godavari, Singur, Osman Sagar, Himayat Sagar నుంచి. దాదాపు {110km|నూట పది కిలోమీటర్లు} pipelines లో, ఎత్తుకు pump చేసి city కి తెస్తారు."
+    },
+    {
+      "id": "s6",
+      "scene": "dam",
+      "tone": "[serious]",
+      "text": "Nagarjuna Sagar లో నీళ్లు ఉన్నట్టే కనిపిస్తాయి. కానీ అసలు trap ఇక్కడే. చాలా నీళ్లు outlet కంటే కిందే ఉన్నాయి. అవి సొంతంగా బయటకు రావు. అందుకే Water Board emergency pumps పెడుతోంది."
+    },
+    {
+      "id": "s7",
+      "scene": "singur",
+      "tone": "[worried]",
+      "text": "Singur reservoir లో కేవలం {10%|పది శాతం} నీళ్లే మిగిలాయి. Osman Sagar, Himayat Sagar కూడా రోజు రోజుకూ తగ్గిపోతున్నాయి."
+    },
+    {
+      "id": "s8",
+      "scene": "supply",
+      "tone": "[frustrated]",
+      "text": "అందుకే చాలా areas లో, ఇప్పుడు నీళ్లు {3|మూడు} రోజులకు ఒక్కసారే వస్తున్నాయి."
+    },
+    {
+      "id": "s9",
+      "scene": "tankers",
+      "tone": "[amazed]",
+      "text": "Tanker bookings రోజుకు {8,000|ఎనిమిది వేల} దాకా వెళ్ళాయి. మామూలుగా ఈ time లో, {1,500|పదిహేను వందల} లోపే ఉంటాయి."
+    },
+    {
+      "id": "s10",
+      "scene": "borewell",
+      "tone": "[sad]",
+      "text": "భూమి లోపల నీళ్లు కూడా ఇంకా లోతుకు వెళ్ళిపోయాయి. {1,000|వెయ్యి} అడుగులు తవ్వినా, borewells లో నీళ్లు రావట్లేదు. ఈ సంవత్సరం {14,000|పద్నాలుగు వేల} కి పైగా borewells ఎండిపోయాయి."
+    },
+    {
+      "id": "s11",
+      "scene": "gap",
+      "tone": "[serious]",
+      "text": "City కి రోజుకు {735|ఏడు వందల ముప్పై ఐదు} million gallons నీళ్లు కావాలి. వస్తున్నది {585|ఐదు వందల ఎనభై ఐదు} మాత్రమే. అంటే రోజూ {150|నూట యాభై} million gallons తక్కువ."
+    },
+    {
+      "id": "s12",
+      "scene": "future",
+      "tone": "[thoughtful]",
+      "text": "మరి ముందు ఏం జరుగుతుంది? El Niño ఈ December దాకా ఇంకా బలపడుతుంది. Water Board ప్రకారం, December చివరికి కొన్ని reservoirs లో వాడుకునే నీళ్లు అయిపోవచ్చు."
+    },
+    {
+      "id": "s13",
+      "scene": "future",
+      "tone": "[worried]",
+      "text": "అసలు danger {2027|రెండు వేల ఇరవై ఏడు} summer. El Niño వేడి తర్వాతే ఎక్కువగా తగులుతుంది. ఎండ ఎక్కువ, ఆవిరి ఎక్కువ, demand ఎక్కువ. July, August దాకా {8–10|ఎనిమిది నుంచి పది} నెలలు, నీళ్ల కష్టం, కరెంటు కష్టం ఉంటాయని Chief Minister కూడా warn చేశారు."
+    },
+    {
+      "id": "s14",
+      "scene": "future",
+      "tone": "[hopeful]",
+      "text": "Relief రావాలంటే, next monsoon బాగా పడాలి. El Niño మధ్యలో తగ్గిపోతే, వర్షాలు తిరిగి రావచ్చు. [serious] కానీ guarantee లేదు."
+    },
+    {
+      "id": "s15",
+      "scene": "lakes",
+      "tone": "[serious]",
+      "text": "సమస్య El Niño ఒక్కటే కాదు. City లో చాలా చెరువులు కబ్జా అయిపోయాయి. Pipelines లో leaks వల్ల చాలా నీళ్లు వృథా అవుతున్నాయి."
+    },
+    {
+      "id": "s15b",
+      "scene": "mafia",
+      "tone": "[angry]",
+      "text": "ఇంకా, ఈ కష్టాన్ని కొంతమంది business గా మార్చుకున్నారు. Illegal borewells నుంచి నీళ్లు తోడి, tankers మీద fake Water Board stickers అతికించి అమ్ముతున్నారు. [disgusted] జనం దాహం, వాళ్లకు లాభం."
+    },
+    {
+      "id": "s16",
+      "scene": "solutions",
+      "tone": "[hopeful]",
+      "text": "మరి మనం ఏం చేయొచ్చు? ఇంట్లో rainwater harvesting pit పెట్టండి. ఎండిపోయిన borewell ని recharge well గా మార్చండి. Leaks వెంటనే fix చేయండి. Godavari నుంచి కొత్త water project కూడా వస్తోంది."
+    },
+    {
+      "id": "s17",
+      "scene": "finale",
+      "tone": "[sincere]",
+      "text": "ప్రతి చుక్క విలువైనదే. మీ area లో నీళ్లు ఎన్ని రోజులకు ఒకసారి వస్తున్నాయి? Comment చేయండి."
+    }
+  ],
+  "sources": [
+    "Hyderabad October rain 2.8 mm vs normal 88.5 mm; 3 of 16 city mandals adequate (Telangana Tribune / ThePrint, Oct 2026)",
+    "El Niño: WMO confirmed 2 Jun 2026; Niño-3 +4.0°C in Sep, above the Dec 1997 record +3.6°C (JMA); NOAA >83% strong-very strong through Jan-Mar 2027",
+    "Telangana monsoon 615.5 mm vs 740.6 mm normal (-17%); 365 mandals drought-hit, GO 24 Oct 2026 (Hans India, Social News XYZ)",
+    "HMWSSB sources: Akkampally/Nagarjuna Sagar (Krishna) ~270 MGD, Yellampally (Godavari) ~162 MGD, Singur/Manjira, Osman Sagar, Himayat Sagar; Krishna conveyance ~110 km pumped (HMWSSB, Siasat)",
+    "Nagarjuna Sagar: most storage below the 510 ft minimum draw-down level, ~57 TMC releasable by gravity; HMWSSB tendered emergency pumps (Sustainability Matters, Oct 2026)",
+    "Singur ~3 of 29.9 TMC (~10%) (Daily Prabhat / Owaisi; Newsmeter); Osman Sagar 3.5→2.2 TMC, Himayat Sagar 2.5→2.1 TMC (Telangana Tribune)",
+    "Supply moved to once every 3 days for major parts of the city (HMWSSB MD, ThePrint / Siasat)",
+    "Tankers 6,000-8,000 bookings/day vs 800-1,500 off-season (Sakshi Post, Gulte, Newsmeter)",
+    "14,000+ borewells dry; wells beyond 1,000 ft failing (Newsmeter, Hans India)",
+    "Supply ~585 MGD vs requirement ~735 MGD, gap 150 MGD (Newsmeter)",
+    "Some reservoirs may run out of usable water mid-to-end December (HMWSSB via Telangana Tribune)",
+    "CM Revanth Reddy: severe water and power crisis for 8-10 months until July-August 2027 (Deccan Chronicle)",
+    "El Niño heat lags its peak; one analog outlook sees it ending mid-2027 (Climate Impact Company) — not official",
+    "Lake encroachment and HYDRAA reclamation (SANDRP, Siasat); tanker mafia with fake HMWSSB stickers busted (Newsmeter)",
+    "HMWSSB Catch the Rain: dead borewells to recharge wells; Godavari Phase II/III Rs 7,360 crore, ~300 MGD by 2030 (Newsmeter, Telangana Today)",
+    "HYDRAA dismantled illegal borewells near Fox Sagar, Jeedimetla, and seized tankers carrying fake HMWSSB stickers, filled from those borewells for commercial sale (Siasat, Hans India, Newsmeter, 27-28 Oct 2026)"
+  ],
+  "thumbnail": {
+    "t": 3.0,
+    "kicker": "Hyderabad Water Crisis",
+    "line1": "నీళ్లు ఆగిపోతే?",
+    "line2": "El Niño danger",
+    "sub": "2027 summer ఎలా ఉంటుంది?",
+    "badge": "3 రోజులకు 1 సారి"
+  },
+  "style": "Tinglish. Every spoken number written in Telugu words via {display|spoken}; captions and on-screen stats keep digits."
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Foreign velli bathukula? The reality of studying abroad",
+  "lead": 0.8,
+  "music": "bed-piano",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "VFbICGvBSvKmHwlI9rzA",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "hook",
+      "tone": "[softly]",
+      "text": "మామా… Foreign వెళ్ళి settle అవుదాం అనుకుంటున్నావా? [pause] ఒక్క నిమిషం ఆగు. [serious] వెళ్ళొద్దు అనట్లేదు. కానీ reality తెలియకుండా, {₹20|ఇరవై} నుంచి {₹50 లక్షల|యాభై లక్షల} loan తీసుకుని మాత్రం వెళ్ళకు."
+    },
+    {
+      "id": "s2",
+      "scene": "loan",
+      "tone": "[serious]",
+      "text": "నువ్వు ఎంత talented అయినా, అక్కడ job వస్తుందని guarantee లేదు. అమ్మా నాన్న savings, loan తీసుకుని flight ఎక్కుతాం. Plan simple. Part-time job చేస్తూ చదువుకుందాం."
+    },
+    {
+      "id": "s3",
+      "scene": "jobs",
+      "tone": "[sighs]",
+      "text": "కానీ అక్కడ part-time job దొరకడమే కష్టం. కొంతమందికి {3–4 నెలలు|మూడు నాలుగు నెలలు} అయినా దొరకట్లేదు."
+    },
+    {
+      "id": "s4",
+      "scene": "math",
+      "tone": "[frustrated]",
+      "text": "దొరికినా, Rent, groceries, bus pass, electricity bill కట్టాక ఏమీ మిగలదు. Loan వడ్డీ మాత్రం పెరుగుతూనే ఉంటుంది. ఇంటికి డబ్బులు ఎలా? [emphasizes] ఒక్క job దొరకడమే కష్టం అయితే, రెండు మూడు jobs ఎలా దొరుకుతాయి మామా?"
+    },
+    {
+      "id": "s5",
+      "scene": "room",
+      "tone": "[chuckles]",
+      "text": "ఇక room సంగతి. ఒకే room లో నలుగురైదుగురు. ఒకడు వంట చేయడు. ఇంకొకడు Splitwise లో లేని bills వేస్తాడు. ఒకడు తన share ఎప్పుడూ pay చేయడు. ఇంకొకడు caste చూసి దూరం పెడతాడు. ఇంకొకడు ప్రతి దానికి నిన్నే corner చేస్తాడు."
+    },
+    {
+      "id": "s6",
+      "scene": "alone",
+      "tone": "[serious]",
+      "text": "చివరికి rent, bills కంటే, ఈ toxic roommates గొడవలే ఎక్కువ stress ఇస్తాయి. డబ్బుల pressure. ఒంటరితనం. job tension. visa tension. [softly] తెలియకుండానే mentally అలసిపోతావు."
+    },
+    {
+      "id": "s7",
+      "scene": "habits",
+      "tone": "[sad]",
+      "text": "అప్పుడే కొంతమంది drinking, betting, smoking కి అలవాటు పడతారు. మొదట relief అనిపిస్తుంది. [pause] కానీ మెల్లగా అవి నీ డబ్బుని, health ని, career ని తినేస్తాయి. ఒక్కసారి చిక్కుకుంటే, బయటపడటం చాలా కష్టం. [emphasizes] Stress కోసం అలవాటు చేసుకున్న చెడు అలవాట్లే, నీ future ని దెబ్బతీయొచ్చు."
+    },
+    {
+      "id": "s8",
+      "scene": "help",
+      "tone": "[warmly]",
+      "text": "Stress ఎక్కువైతే ఒంటరిగా మోయకు. కొత్త country లో, అందరికీ అంత maturity ఉండకపోవచ్చు. ఇంట్లో వాళ్ళతో, friends తో మాట్లాడు. అవసరమైతే professional help తీసుకో. రెండు రోజుల relief కోసం, నీ future ని risk లో పెట్టకు."
+    },
+    {
+      "id": "s9",
+      "scene": "visa",
+      "tone": "[serious]",
+      "text": "ఇంత కష్టపడి degree చేశాక, అసలు పరీక్ష మొదలవుతుంది. Visa time లోపల job రావాలి. Company sponsor చేయాలి. Work visa రావాలి. [pause] రాకపోతే?"
+    },
+    {
+      "id": "s10",
+      "scene": "stuck",
+      "tone": "[sad]",
+      "text": "మళ్ళీ part-time job నే full-time చేయాలి. Visa expiry దగ్గర పడుతుంది. Extensions కోసం try చేస్తారు. కొంతమంది అప్పులతో India కి తిరిగి వస్తున్నారు. ఇంకొంతమంది అక్కడే struggle చేస్తున్నారు. అందరికీ కాదు. కానీ చాలామంది reality ఇది."
+    },
+    {
+      "id": "s11",
+      "scene": "ai",
+      "tone": "[serious]",
+      "text": "ఇంకో విషయం. AI వల్ల companies restructure అవుతున్నాయి. Layoffs India లోనే కాదు, బయట దేశాల్లో కూడా. నిన్న మనం చేసిన పని, ఈరోజు AI చేస్తోంది. ఒక్క skill మీద depend అవ్వడం risk."
+    },
+    {
+      "id": "s12",
+      "scene": "fields",
+      "tone": "[hopeful]",
+      "text": "మరి ఏం చేయాలి? IT ఒక్కటే career కాదు. VLSI, semiconductor, chip design, hardware, civil engineering కూడా చూడు. నీ interest, market demand ముందే research చెయ్."
+    },
+    {
+      "id": "s13",
+      "scene": "skills",
+      "tone": "[encouraging]",
+      "text": "Job లో ఉన్నవాళ్ళు కూడా, investment లేకుండా digital marketing, content creation, freelancing start చేయొచ్చు. ఒక main skill. దానికి తోడు నాలుగైదు skills. ఒక job పోయినా, ఇంకో opportunity create చేసుకోగలగాలి."
+    },
+    {
+      "id": "s14",
+      "scene": "checklist",
+      "tone": "[thoughtful]",
+      "text": "Foreign తప్పు కాదు. India కూడా తప్పు కాదు. కానీ foreign అంటేనే settle అనే mindset మార్చుకో. ఏ country? ఏ course? Job market? Visa rules? మొత్తం ఖర్చు? Loan ఎలా తీరుస్తావు? Part-time jobs దొరుకుతాయా? ముందే research చెయ్."
+    },
+    {
+      "id": "s15",
+      "scene": "finale",
+      "tone": "[confident]",
+      "text": "Dreams కోసం risk తీసుకో. కానీ future మొత్తం, ఒక్క decision మీద పెట్టకు. నీ future ని ఒక degree మీద కాదు. ఒక job మీద కాదు. ఒక country మీద కాదు. [emphasizes] నీ skills మీద build చేసుకో! ఎప్పటికప్పుడు upgrade అవుతూ ఉండు. [pause] [softly] Foreign వెళ్ళు. కానీ proper planning తో. ఎందుకంటే foreign నీ dream కావచ్చు. కానీ అప్పుల ఊబి, నీ future కాకూడదు మామా. నీ friend కి share చెయ్."
+    }
+  ],
+  "sources": [
+    "General guidance; no country-specific rule is stated in the video. Visa, post-study work and part-time rules differ by country and change often.",
+    "Education loans: interest typically accrues during the study moratorium (Indian bank education-loan schemes)."
+  ],
+  "thumbnail": {
+    "t": 3.0,
+    "kicker": "STUDY ABROAD",
+    "line1": "₹50 LAKHS LOAN…",
+    "line2": "Foreign velli bathukula?",
+    "sub": "Think before you go",
+    "badge": "Reality check"
+  },
+  "style": "Telangana Tinglish, friend-to-friend (నువ్వు, మామా). Paper-cut diorama + 3D props. See episodes/abroad/style.md."
+}

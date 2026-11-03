@@ -1,0 +1,2 @@
+{ "title": "preview", "lead": 0.5, "music": "bed", "voice": {"model_id":"eleven_v3","language_code":"te"},
+  "segments": [ { "id": "s1", "scene": "lineup", "text": "ఇది ఒక preview మాత్రమే, characters ఎలా ఉన్నాయో చూద్దాం అని." } ] }

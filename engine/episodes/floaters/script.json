@@ -1,0 +1,86 @@
+{
+  "title": "కళ్ళ ముందు తేలే దారాలు, చుక్కలు: అసలు ఏంటవి?",
+  "lead": 0.8,
+  "voice": {
+    "model_id": "eleven_v3",
+    "language_code": "te",
+    "voice_id": "RmsECPYd2k7yLIMTl1cR",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "face",
+      "tone": "[curious]",
+      "text": "ఆకాశం వైపు చూసినప్పుడు, కళ్ళ ముందు పారదర్శకమైన దారాలు, చుక్కలు తేలుతూ కనిపిస్తాయా?"
+    },
+    {
+      "id": "s2",
+      "scene": "pov",
+      "tone": "[playful]",
+      "text": "కన్ను తిప్పితే అవి కూడా జారిపోతాయి. నేరుగా చూడాలని ప్రయత్నిస్తే… [whispers] తప్పించుకుంటాయి!"
+    },
+    {
+      "id": "s3",
+      "scene": "gel",
+      "tone": "[thoughtful]",
+      "text": "కంటి లోపల దాదాపు {4|నాలుగు} మిల్లీలీటర్ల జెల్ ఉంటుంది. దాని పేరు vitreous. అందులో {99%|తొంభై తొమ్మిది శాతం} నీరే."
+    },
+    {
+      "id": "s4",
+      "scene": "gel",
+      "tone": "",
+      "text": "ఆ జెల్‌ని పట్టి ఉంచేది సన్నని collagen దారాల వల. వయసుతో పాటు జెల్ నీరుగా మారుతుంది, ఆ దారాలు ముద్దలుగా అతుక్కుంటాయి."
+    },
+    {
+      "id": "s5",
+      "scene": "retina",
+      "tone": "[mysterious]",
+      "text": "కాంతి retina మీద పడేటప్పుడు, ఆ ముద్దలు నీడలు వేస్తాయి. మీరు చూసేది దారాల్ని కాదు… వాటి నీడల్ని!"
+    },
+    {
+      "id": "s6",
+      "scene": "bluesky",
+      "tone": "[excited]",
+      "text": "మరి నీలి ఆకాశంలో వేగంగా పరిగెత్తే మెరిసే చుక్కలు? అవి మీ సొంత white blood cells!"
+    },
+    {
+      "id": "s7",
+      "scene": "vessels",
+      "tone": "[thoughtful]",
+      "text": "మన retina తిరగబడి ఉంటుంది. కాంతి ముందు రక్త నాళాలను దాటాకే కణాలకు చేరుతుంది. కదలని నాళాల నీడల్ని మెదడు చెరిపేస్తుంది."
+    },
+    {
+      "id": "s8",
+      "scene": "capillary",
+      "tone": "",
+      "text": "కానీ ఒక white blood cell సన్నని నాళంలో దూరినప్పుడు, దాని వెనక ఒక ఖాళీ ఏర్పడుతుంది. ఆ ఖాళీ నుంచి నీలి కాంతి దూసుకొస్తుంది. అది కదులుతుంది కాబట్టి, మెదడు దాన్ని చెరపలేదు."
+    },
+    {
+      "id": "s9",
+      "scene": "warning",
+      "tone": "[serious]",
+      "text": "ఇవి రెండూ సాధారణమే. కానీ ఒక్కసారిగా చాలా floaters, మెరుపులు, లేదా కంటి మీద తెర లాంటి నీడ కనిపిస్తే, అదే రోజు eye doctor ని కలవండి."
+    }
+  ],
+  "sources": [
+    "AAO: moving spots in a blue sky (blue field entoptic phenomenon is normal)",
+    "Wikipedia: Blue field entoptic phenomenon; Entoptic phenomenon",
+    "Vitreous ~4 ml, ~99% water, type II collagen + hyaluronic acid: Frontiers Bioeng 2018; IMAIOS",
+    "PVD ~24% at 50-59, ~87% at 80-89: World J Methodol 2021 review; StatPearls",
+    "Warning signs (sudden floaters, flashes, curtain): Mayo Clinic; Moran CORE"
+  ],
+  "music": "bed-ambient",
+  "thumbnail": {
+    "t": 6.0,
+    "kicker": "కంటి సైన్స్",
+    "line1": "కళ్ళ ముందు",
+    "line2": "తేలే దారాలు?",
+    "sub": "అసలు అవి ఏంటో తెలుసా?",
+    "badge": "3D"
+  }
+}

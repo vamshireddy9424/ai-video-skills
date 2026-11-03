@@ -1,0 +1,81 @@
+{
+  "title": "Binance heist: $6.3 billion ela maayamaindi?",
+  "lead": 0.6,
+  "music": "bed-heist",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "ZoV3Y9cqdke2p8nzz7XP",
+    "voice_settings": {
+      "stability": 0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "hook",
+      "tone": "[serious]",
+      "text": "ప్రపంచంలోనే అతిపెద్ద crypto exchanges లో ఒకటైన Binance నుంచి, దాదాపు {$6.3 billion|ఆరు పాయింట్ మూడు billion dollars} దొంగిలించబడ్డాయి. మన డబ్బుల్లో, యాభై వేల కోట్లకు పైగా! అందులో ఎక్కువ భాగం, కేవలం ఇరవై నిమిషాల్లో. [pause] కానీ twist ఏంటంటే, hackers Bitcoin ని hack చేయలేదు. Binance లో డబ్బులు బయటకు పంపే system నే target చేశారు."
+    },
+    {
+      "id": "s2",
+      "scene": "target",
+      "tone": "[serious]",
+      "text": "ముందు Binance అంటే ఏంటి? Bitcoin, Ethereum లాంటి crypto కొనడానికి, అమ్మడానికి వాడే, ప్రపంచంలోనే అతిపెద్ద exchanges లో ఒకటి. కోట్ల మంది users. అలాంటి platform లో, October ఇరవై తొమ్మిది న, భారీ security breach జరిగింది."
+    },
+    {
+      "id": "s3",
+      "scene": "wallets",
+      "tone": "[curious]",
+      "text": "Crypto exchanges దగ్గర రెండు రకాల wallets ఉంటాయి. Cold wallet, internet కి connect కాకుండా, safe లో దాచినట్టు ఉంటుంది. Hot wallet, రోజువారీ withdrawals కోసం, internet కి connect అయి ఉంటుంది. Hackers దాడి చేసింది, ఈ hot wallets మీదే."
+    },
+    {
+      "id": "s4",
+      "scene": "heist",
+      "tone": "[excited]",
+      "text": "TRM Labs ప్రకారం, దాదాపు {$6.36 billion|ఆరు పాయింట్ మూడు ఆరు billion dollars} విలువైన assets, పది blockchains మీదుగా, hackers wallets కి వెళ్ళాయి. ముందు XRP. తర్వాత పద్దెనిమిది వేల bitcoin. తర్వాత Tron. Ethereum లో అయితే, ఒక్క transaction తో, మూడు నిమిషాల్లో wallet మొత్తం ఖాళీ!"
+    },
+    {
+      "id": "s5",
+      "scene": "laptop",
+      "tone": "[serious]",
+      "text": "ఇక్కడే అసలు twist. ఇది password guess చేసిన hack కాదు. Binance మొదట, ఒక DevOps engineer laptop compromise అయ్యిందని అనుమానించింది. తర్వాత, ఇంకా ఎక్కువ breach points ఉన్నాయని చెప్పింది. Investigators ప్రకారం, transactions ని approve చేసే signing system నే hackers వాడుకున్నారు. Ethereum లో, {EIP-7702|E I P seven seven zero two} అనే feature ని కూడా misuse చేశారు."
+    },
+    {
+      "id": "s6",
+      "scene": "who",
+      "tone": "[serious]",
+      "text": "మరి ఎవరు చేశారు? TRM Labs, Chainalysis లాంటి firms, North Korea కి చెందిన TraderTraitor group అని అనుమానిస్తున్నాయి. [pause] కానీ గుర్తుపెట్టుకోండి. ఇది analysts అంచనా మాత్రమే. అధికారికంగా confirm కాలేదు."
+    },
+    {
+      "id": "s7",
+      "scene": "freeze",
+      "tone": "[serious]",
+      "text": "Binance ఏం చేసింది? Deposits, withdrawals ఆపేసింది. Tether, Circle లాంటి companies సహాయంతో, దాదాపు మూడు billion dollars freeze అయ్యాయి. నష్టం customers మీద వేయకుండా, company funds, SAFU fund తో cover చేస్తామని చెప్పింది."
+    },
+    {
+      "id": "s8",
+      "scene": "lessons",
+      "tone": "[thoughtful]",
+      "text": "మనం నేర్చుకోవాల్సింది ఏంటి? Crypto risk-free కాదు. పెద్ద exchange అయినా, వంద శాతం safe కాదు. అన్నీ ఒకే exchange లో పెట్టకండి. Strong password, two-factor authentication పెట్టుకోండి. Unknown links, fake support calls నమ్మకండి. Private keys, recovery phrase ఎవరికీ ఇవ్వకండి."
+    },
+    {
+      "id": "s9",
+      "scene": "finale",
+      "tone": "[serious]",
+      "text": "ఇది Bitcoin technology hack కాదు. ఒక centralized exchange security లో జరిగిన breach. మన డబ్బు digital అయితే, మన జాగ్రత్త కూడా అంతే strong గా ఉండాలి. [emphasizes] Crypto అంటే, risk ప్లస్ responsibility. Useful అనిపిస్తే share చేయండి."
+    }
+  ],
+  "thumbnail": {
+    "t": 3,
+    "kicker": "BINANCE HEIST",
+    "line1": "$6.3 BILLION",
+    "line2": "20 నిమిషాల్లో మాయం!",
+    "sub": "ఎలా జరిగింది? పూర్తి కథ",
+    "badge": "Biggest ever"
+  },
+  "style": "Heist thriller. Dark, red alarms, Harris map, paper-cut evidence cards."
+}

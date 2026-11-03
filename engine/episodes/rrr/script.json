@@ -1,0 +1,90 @@
+{
+  "title": "RRR vasthe mee land rate emavuthundi?",
+  "lead": 0.6,
+  "music": "bed-piano",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "VFbICGvBSvKmHwlI9rzA",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "hook",
+      "tone": "[slowly]",
+      "text": "ఒక ఎకరం భూమి... [pause] {₹120 కోట్లు|నూట ఇరవై కోట్లు}! [serious] అవును. హైదరాబాద్ కోకాపేట్ లో, ఈ సెప్టెంబర్ లో, ఒక ఎకరానికి పలికిన ధర ఇది. [curious] కానీ అసలు ప్రశ్న ఏంటంటే... ఈరోజు సిటీకి దగ్గర భూమి ఇంత ఖరీదైతే, రేపు ఇంకా దూరంగా ఉన్న భూమి పరిస్థితి ఏంటి? ఎందుకంటే, ORR బయట, ఇంకో భారీ రింగ్ వస్తోంది. RRR."
+    },
+    {
+      "id": "s2",
+      "scene": "rings",
+      "tone": "[serious]",
+      "text": "Regional Ring Road. మొత్తం దాదాపు {362|మూడు వందల అరవై రెండు} కిలోమీటర్లు. రెండు భాగాలు. Northern RRR, Southern RRR. కాగితంపై ఇది ఒక రోడ్డు మాత్రమే. కానీ దీని చుట్టూ, కొత్త townships, industries, logistics hubs, ఎక్కడ పెరుగుతాయన్నదే అసలు ప్రశ్న."
+    },
+    {
+      "id": "s3",
+      "scene": "north",
+      "tone": "[serious]",
+      "text": "ముందు Northern RRR. సంగారెడ్డి నుంచి, నర్సాపూర్, తూప్రాన్, గజ్వేల్, భువనగిరి మీదుగా, చౌటుప్పల్ వరకు. దాదాపు {161|నూట అరవై ఒక్క} కిలోమీటర్లు, ఆరు లేన్లు. భూసేకరణ దాదాపు పూర్తయ్యింది. [pause] కానీ ట్విస్ట్ ఏంటంటే, టెండర్ deadline లు ఆరు సార్లు మారాయి. Northern RRR ముందుకు వెళ్తోంది. కానీ, రోడ్డు రెడీ అయిపోయింది అనడం మాత్రం తప్పు."
+    },
+    {
+      "id": "s4",
+      "scene": "south",
+      "tone": "[thoughtful]",
+      "text": "ఇక Southern RRR. దాదాపు {201|రెండు వందల ఒక్క} కిలోమీటర్లు. ఇక్కడ కథ ఇంకా క్లిష్టం. Alignment, approvals, funding, అన్నీ ఇంకా చర్చల్లోనే. కొన్ని చోట్ల రైతుల అభ్యంతరాలు కూడా. [serious] గుర్తుపెట్టుకోండి. మ్యాప్ లో ఒక గీత కనిపించడం, ఆ గీత పక్కన రేపు రోడ్డు రావడం, రెండూ ఒకటి కాదు."
+    },
+    {
+      "id": "s4b",
+      "scene": "links",
+      "tone": "[curious]",
+      "text": "ఇప్పుడు అసలు connectivity. Northern RRR, Hyderabad నుంచి బయటకు వెళ్ళే పెద్ద highways ని కలుపుతుంది. సంగారెడ్డి దగ్గర, Mumbai highway, Nanded highway. తూప్రాన్ దగ్గర, Nagpur highway. భువనగిరి దగ్గర, Warangal highway. చౌటుప్పల్ దగ్గర, Vijayawada highway. Southern side లో, Bengaluru highway కూడా కలవాలి. [serious] ఇలా highways కలిసే చోటే, interchanges వస్తాయి. అక్కడే, అసలు కదలిక."
+    },
+    {
+      "id": "s5",
+      "scene": "question",
+      "tone": "[curious]",
+      "text": "మరి RRR దగ్గర భూమి కొనాలా? చాలామంది ఆలోచన, RRR వస్తోంది కదా, ఏ భూమి కొన్నా పెరుగుతుంది అని. [pause] అది అంత simple కాదు. అసలు ప్రశ్నలు ఇవి. రోడ్డుకు నేరుగా access ఉందా? దగ్గర్లో interchange ఉందా? లేక, దూరంలో RRR కనిపిస్తుంది అంతేనా?"
+    },
+    {
+      "id": "s6",
+      "scene": "kokapet",
+      "tone": "[serious]",
+      "text": "కోకాపేట్ కి ఆ ధర, ఒక్క రోడ్డు వల్ల రాలేదు. Financial District, HITEC City, IT ఉద్యోగాలు, ORR, అన్నీ ఏళ్ళ తరబడి కలిసి వచ్చాయి. RRR వస్తే ప్రతి ఊరు కోకాపేట్ అవుతుందా? [emphasizes] లేదు. కొన్ని ప్రాంతాలకు మాత్రమే అవకాశం. ఎక్కడ? అదే అసలు game."
+    },
+    {
+      "id": "s7",
+      "scene": "trap",
+      "tone": "[serious]",
+      "text": "Ads లో RRR facing, RRR adjacent అని చూసి మాత్రమే కొనకండి. Brochure లో గీత, ప్రభుత్వ రికార్డుల్లో alignment, ఒకేలా ఉండకపోవచ్చు. మీ survey number, official alignment, భూమికి access, ఇవన్నీ ముందే check చేయండి. [emphasizes] రోడ్డు దగ్గర ఉండటం ఒకటి. రోడ్డుతో connect అవ్వడం ఇంకోటి. ఆ తేడా, కోట్లలో ఉండొచ్చు."
+    },
+    {
+      "id": "s8",
+      "scene": "bigger",
+      "tone": "[thoughtful]",
+      "text": "హైదరాబాద్ ఇక ఒక్క సిటీగా పెరగడం లేదు. ఇది, హైదరాబాద్ next growth map కథ. కానీ గుర్తుంచుకోండి. Future potential అంటే, guaranteed profit కాదు."
+    },
+    {
+      "id": "s9",
+      "scene": "finale",
+      "tone": "[cheerful]",
+      "text": "మీ ఊరు RRR route దగ్గర ఉందా? Comment లో మీ ఊరి పేరు రాయండి. తర్వాత video లో, మీ ప్రాంతం గురించే మాట్లాడుకుందాం!"
+    }
+  ],
+  "sources": [
+    "See research.md"
+  ],
+  "thumbnail": {
+    "t": 2.0,
+    "kicker": "HYDERABAD RRR",
+    "line1": "ఒక ఎకరం ₹120 కోట్లు!",
+    "line2": "RRR తో మీ భూమి?",
+    "sub": "362 km కొత్త ring road",
+    "badge": "North vs South"
+  },
+  "style": "Metro look: night-lit 3D Hyderabad, neon rings. Not investment advice."
+}

@@ -1,0 +1,88 @@
+{
+  "title": "తుఫాన్ అర్ణబ్: ఎలా పుట్టింది, ఇప్పుడు ఎక్కడ ఉంది?",
+  "lead": 0.8,
+  "music": "bed-ambient",
+  "voice": {
+    "model_id": "eleven_v3",
+    "language_code": "te",
+    "voice_id": "RmsECPYd2k7yLIMTl1cR",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "space",
+      "tone": "[serious]",
+      "text": "ఇదే Cyclone Arnab. Bay of Bengal లో పుట్టి, October 28 early morning మన Andhra Pradesh coast ని hit చేసింది."
+    },
+    {
+      "id": "s2",
+      "scene": "track",
+      "tone": "",
+      "text": "October 26 న sea మధ్యలో cyclone గా మారింది. గంటకి almost 20 kilometers speed తో move అయ్యి, Narsapur దగ్గర landfall అయ్యింది."
+    },
+    {
+      "id": "s3",
+      "scene": "warm",
+      "tone": "[curious]",
+      "text": "అసలు cyclone ఎలా form అవుతుంది? Sea water temperature twenty-six point five degrees దాటితే, నీళ్ళు ఆవిరి అయ్యి పైకి వెళ్తాయి."
+    },
+    {
+      "id": "s4",
+      "scene": "engine",
+      "tone": "",
+      "text": "పైకి వెళ్ళిన vapour చల్లబడి clouds గా మారుతుంది, అప్పుడు heat release అవుతుంది. ఆ heat గాలిని ఇంకా పైకి లాగుతుంది. కింద low pressure create అవుతుంది, దాంతో చుట్టూ ఉన్న గాలి fast గా లోపలికి rush అవుతుంది."
+    },
+    {
+      "id": "s5",
+      "scene": "spin",
+      "tone": "[thoughtful]",
+      "text": "కానీ earth rotate అవుతుంది కదా, అందుకే ఆ గాలి straight గా రాదు. Northern hemisphere లో అది anti-clockwise గా గిర గిరా తిరుగుతుంది."
+    },
+    {
+      "id": "s6",
+      "scene": "anatomy",
+      "tone": "[excited]",
+      "text": "మధ్యలో ఉండేదే eye, అక్కడ చాలా calm గా ఉంటుంది. దాని చుట్టూ eye wall, అక్కడే strongest winds. Arnab landfall అప్పుడు winds గంటకి 140 kilometers వరకు వీచాయి."
+    },
+    {
+      "id": "s7",
+      "scene": "surge",
+      "tone": "[serious]",
+      "text": "ఈ strong winds sea water ని coast వైపు push చేస్తాయి. Sea level one to one and a half meters వరకు పెరుగుతుంది. దీన్నే storm surge అంటారు."
+    },
+    {
+      "id": "s8",
+      "scene": "inland",
+      "tone": "[thoughtful]",
+      "text": "Land మీదకి వచ్చాక, warm sea అనే fuel cut అయిపోతుంది. So cyclone weak అవుతుంది, కానీ heavy rains మాత్రం continue అవుతాయి."
+    },
+    {
+      "id": "s9",
+      "scene": "safety",
+      "tone": "[serious]",
+      "text": "Coastal areas లో ఉంటే, ఇంట్లోనే ఉండండి, sea దగ్గరికి వెళ్ళకండి, officials ఇచ్చే alerts follow అవ్వండి. Safe గా ఉండండి."
+    }
+  ],
+  "sources": [
+    "IMD Kolkata special bulletin, 27.10.2026 13:30 IST: VSCS Arnab, WNW ~20 km/h, winds 140-150 gusting 165 km/h",
+    "IMD bulletin 28.10.2026 (via news reports): centre ~30 km E of Narsapur; crossing AP & Yanam coasts; 115-125 gusting 140 km/h; storm surge 1-1.5 m",
+    "Reuters/AP via ABC News, AOL: landfall early Wednesday 28 Oct; weakened to severe cyclonic storm; >180,000 evacuated in two states",
+    "Down To Earth, The Daily Star, Vajiram: formed as cyclonic storm early 26 Oct over east-central Bay of Bengal; ~15.9N 84.8E on 27 Oct",
+    "WMO/ESCAP naming list: Arnab contributed by Bangladesh (means ocean)",
+    "Cyclone formation science: sea surface >26.5 C, latent heat release, low pressure inflow, Coriolis (NH anticlockwise), eye/eyewall: NOAA, IMD FAQ"
+  ],
+  "thumbnail": {
+    "t": 3.0,
+    "kicker": "తుఫాన్ అర్ణబ్",
+    "line1": "ఎలా పుట్టింది?",
+    "line2": "ఎక్కడ ఉంది?",
+    "sub": "3D లో పూర్తి కథ",
+    "badge": "140 km/h"
+  },
+  "style": "Tinglish: everyday spoken Telugu with English words where people use them (cyclone, coast, speed, pressure, eye, winds, storm surge). No literary Telugu."
+}

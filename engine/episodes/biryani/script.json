@@ -1,0 +1,72 @@
+{
+  "title": "₹300 biryani lo hotel ki entha migiluthundi?",
+  "lead": 0.6,
+  "music": "bed",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "VFbICGvBSvKmHwlI9rzA",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "hook",
+      "tone": "[excited]",
+      "text": "{₹300|మూడు వందల రూపాయల} biryani తింటే, hotel కి మిగిలేది ఎంతో తెలుసా? [pause] Just {₹40|నలభై రూపాయలు}. [serious] అదే app లో order చేస్తే? Hotel కి నష్టం!"
+    },
+    {
+      "id": "s2",
+      "scene": "food",
+      "tone": "[curious]",
+      "text": "ఒక సగటు hotel లెక్క చూద్దాం. ముందు plate లోకి వెళ్ళేది. Chicken, {₹52|యాభై రెండు}. Basmati rice, {₹17|పదిహేడు}. Masala, నెయ్యి, raita, salan, {₹25|ఇరవై ఐదు}. Gas, {₹8|ఎనిమిది}. మొత్తం, {₹102|నూట రెండు రూపాయలు}."
+    },
+    {
+      "id": "s3",
+      "scene": "costs",
+      "tone": "[serious]",
+      "text": "తర్వాత kitchen staff జీతాలు, {₹50|యాభై}. Rent, current, {₹50|యాభై}. Packing, waste, maintenance, {₹44|నలభై నాలుగు}. Government GST, {₹14|పద్నాలుగు}."
+    },
+    {
+      "id": "s4",
+      "scene": "profit",
+      "tone": "[emphasizes]",
+      "text": "అన్నీ పోగా, hotel కి మిగిలేది, సుమారు {₹40|నలభై రూపాయలు} మాత్రమే."
+    },
+    {
+      "id": "s5",
+      "scene": "app",
+      "tone": "[shocked]",
+      "text": "ఇప్పుడు అదే biryani, app లో. Commission దాదాపు పాతిక శాతం, దాని మీద GST. అంటే, దాదాపు {₹85|ఎనభై ఐదు రూపాయలు} app కే. Hotel లెక్క, minus లోకి వెళ్తుంది!"
+    },
+    {
+      "id": "s6",
+      "scene": "price",
+      "tone": "[serious]",
+      "text": "అందుకే, నష్టం రాకుండా ఉండాలన్నా, app లో price {₹360|మూడు వందల అరవై} దాటాలి. ఆ extra, నువ్వే కడుతున్నావు."
+    },
+    {
+      "id": "s7",
+      "scene": "finale",
+      "tone": "[cheerful]",
+      "text": "నువ్వు biryani counter లో కొంటావా, app లో order చేస్తావా? Comment చెయ్!"
+    }
+  ],
+  "sources": [
+    "See research.md: an illustrative estimate, not one hotel's books."
+  ],
+  "thumbnail": {
+    "t": 2.0,
+    "kicker": "₹300 BIRYANI",
+    "line1": "Hotel కి ₹40?",
+    "line2": "App లో నష్టం!",
+    "badge": "Real math",
+    "sub": "Counter vs App: real math"
+  },
+  "style": "Telangana Tinglish, punchy. Paper-cut + 3D (see abroad). ≤60 s."
+}

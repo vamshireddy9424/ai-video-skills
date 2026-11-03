@@ -1,0 +1,103 @@
+{
+  "title": "Tatkal: ఆ ఒక్క నిమిషంలో ఏం జరుగుతుంది?",
+  "lead": 1.2,
+  "voice": {
+    "model_id": "eleven_v3",
+    "language_code": "te",
+    "voice_id": "RmsECPYd2k7yLIMTl1cR",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "clock",
+      "tone": "[excited]",
+      "text": "ఉదయం సరిగ్గా పది గంటలు! Tatkal బుకింగ్ ఓపెన్ అవుతుంది. [surprised] ఒక్క నిమిషంలోనే సీట్లన్నీ అయిపోతాయి!"
+    },
+    {
+      "id": "s2",
+      "scene": "clock",
+      "tone": "[curious]",
+      "text": "[whispers] అసలు ఆ ఒక్క నిమిషంలో, [curious] IRCTC లోపల ఏం జరుగుతుంది?"
+    },
+    {
+      "id": "s3",
+      "scene": "rush",
+      "tone": "[excited]",
+      "text": "దేశం నలుమూలల నుంచి లక్షల ఫోన్లు, [excited] ఒకేసారి ఒకే బటన్ నొక్కుతాయి!"
+    },
+    {
+      "id": "s4",
+      "scene": "rush",
+      "tone": "[amazed]",
+      "text": "{2025|రెండు వేల ఇరవై ఐదు} మే ఇరవై రెండో తేదీన, ఒక్క నిమిషంలో ముప్పై ఒక్క వేల ఎనిమిది వందల పద్నాలుగు టికెట్లు బుక్ అయ్యాయి. [proud] అదే రికార్డ్!"
+    },
+    {
+      "id": "s5",
+      "scene": "bots",
+      "tone": "[serious]",
+      "text": "కానీ ఈ రద్దీలో అందరూ మనుషులు కాదు. [mysterious] కొన్ని bots, అంటే మనిషి కంటే వేగంగా క్లిక్ చేసే software."
+    },
+    {
+      "id": "s6",
+      "scene": "bots",
+      "tone": "[serious]",
+      "text": "ఈ bot traffic, బుకింగ్ ఓపెన్ అయిన మొదటి ఐదు నిమిషాల్లోనే ఎక్కువ ఉంటుందని రైల్వే శాఖ చెప్పింది."
+    },
+    {
+      "id": "s7",
+      "scene": "shield",
+      "tone": "[confident]",
+      "text": "అందుకే IRCTC ముందు ఒక కవచం ఉంది. ఒక CDN, bots ని గుర్తించి, [firm] బయటే ఆపేస్తుంది!"
+    },
+    {
+      "id": "s8",
+      "scene": "shield",
+      "tone": "[surprised]",
+      "text": "{2025|రెండు వేల ఇరవై ఐదు} జనవరి నుంచి, మూడు కోట్లకు పైగా అనుమానాస్పద user IDs ని deactivate చేశారు!"
+    },
+    {
+      "id": "s9",
+      "scene": "verify",
+      "tone": "[curious]",
+      "text": "తర్వాత ఇంకో గేటు. [confident] Aadhaar తో verify అయిన accounts మాత్రమే, OTP తో Tatkal బుక్ చేయగలవు."
+    },
+    {
+      "id": "s10",
+      "scene": "verify",
+      "tone": "[playful]",
+      "text": "Agents కి మొదటి అరగంట అనుమతి లేదు. AC కి పది నుంచి పదిన్నర వరకు, [warm] ఆ సీట్లు మీలాంటి ప్రయాణికుల కోసమే."
+    },
+    {
+      "id": "s11",
+      "scene": "seats",
+      "tone": "[excited]",
+      "text": "మిగిలిన వాళ్ళంతా ఒకే వరుసలో. [fast] ఎవరి request ముందు చేరితే, సీటు వాళ్ళదే!"
+    },
+    {
+      "id": "s12",
+      "scene": "seats",
+      "tone": "[friendly]",
+      "text": "అందుకే పది గంటలకి ముందే login అయి, ప్రయాణికుల వివరాలు సిద్ధంగా పెట్టుకోండి. [whispers] ఆ ఒక్క నిమిషమే... [excited] అసలు ఆట!"
+    }
+  ],
+  "sources": [
+    "31,814 tickets in one minute on 22 May 2025 (IRCTC record): Ministry of Railways statement, reported by newsonair.gov.in and travelandtourworld.com",
+    "Bot traffic peaks in the first five minutes of Tatkal; CDN-based anti-bot system: Ministry of Railways, newsonair.gov.in (June 2025)",
+    "About 3.02 crore suspicious user IDs deactivated since January 2025: Lok Sabha reply, newsonair.gov.in",
+    "Aadhaar-authenticated users only for online Tatkal from 1 July 2025; Aadhaar OTP from 15 July 2025; agents barred 10:00-10:30 (AC) and 11:00-11:30 (non-AC): Ministry of Railways circular, June 2025",
+    "Seat queue and shield visuals are illustrative, not IRCTC's real architecture"
+  ],
+  "thumbnail": {
+    "t": 7.14,
+    "kicker": "IRCTC లోపల",
+    "line1": "1 నిమిషంలో",
+    "line2": "Tatkal మాయం!",
+    "sub": "ఎవరు తీసుకెళ్తున్నారు?",
+    "badge": "10:00:00"
+  }
+}

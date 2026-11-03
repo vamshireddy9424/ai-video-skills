@@ -1,0 +1,145 @@
+{
+  "title": "Mandu antha okate na? Theda enti?",
+  "lead": 0.5,
+  "music": "bed",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "VFbICGvBSvKmHwlI9rzA",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "h",
+      "scene": "intro",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[excited]",
+      "text": "Panda! మందు అంటే, అన్నీ ఒకటే కదా?"
+    },
+    {
+      "id": "h2",
+      "scene": "intro",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[laughs]",
+      "text": "ఒకటే నా? అస్సలు కాదు పులి. చూపిస్తా ఆగు."
+    },
+    {
+      "id": "q1",
+      "scene": "p1",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[curious]",
+      "text": "ఇది కల్లు. [pause] ఇది సారా. Difference ఏంటి?"
+    },
+    {
+      "id": "a1",
+      "scene": "p1",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[confident]",
+      "text": "కల్లు, తాటి లేదా ఈత చెట్టు రసం పులిసి తయారవుతుంది. Distill చేయరు. సారా, distill చేసిన గట్టి మద్యం. [serious] Licence లేని సారా, ప్రాణాలకే ప్రమాదం."
+    },
+    {
+      "id": "q2",
+      "scene": "p2",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[curious]",
+      "text": "ఇది Liquor. [pause] ఇది Liqueur. Difference ఏంటి?"
+    },
+    {
+      "id": "a2",
+      "scene": "p2",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[confident]",
+      "text": "Liquor అంటే, distill చేసిన మద్యం. Liqueur అంటే, అదే మద్యం లో చక్కెర, flavours కలిపింది. అందుకే తియ్యగా ఉంటుంది."
+    },
+    {
+      "id": "q3",
+      "scene": "p3",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[curious]",
+      "text": "ఇది Lager. [pause] ఇది Ale. Difference ఏంటి?"
+    },
+    {
+      "id": "a3",
+      "scene": "p3",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[confident]",
+      "text": "రెండూ beer లే. Lager, చల్లగా పులియబెడతారు, crisp గా ఉంటుంది. Ale, వెచ్చగా పులియబెడతారు, fruity గా ఉంటుంది. మన దగ్గర ఎక్కువ దొరికేవి, lagers."
+    },
+    {
+      "id": "q4",
+      "scene": "p4",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[curious]",
+      "text": "ఇది Red wine. [pause] ఇది White wine. Difference ఏంటి?"
+    },
+    {
+      "id": "a4",
+      "scene": "p4",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[confident]",
+      "text": "Red wine, నల్ల ద్రాక్ష తొక్కలతో సహా పులియబెడతారు. అందుకే ఆ రంగు. White wine, తొక్క లేకుండా, రసం మాత్రమే."
+    },
+    {
+      "id": "q5",
+      "scene": "p5",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[curious]",
+      "text": "ఇది Champagne. [pause] ఇది Sparkling wine. Difference ఏంటి?"
+    },
+    {
+      "id": "a5",
+      "scene": "p5",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[confident]",
+      "text": "[whispers] ఇది secret. France లోని Champagne ప్రాంతం లో చేస్తేనే, Champagne అనాలి. మిగతావన్నీ, sparkling wine."
+    },
+    {
+      "id": "end",
+      "scene": "outro",
+      "speaker": "puli",
+      "voice_id": "RmsECPYd2k7yLIMTl1cR",
+      "tone": "[excited]",
+      "text": "అబ్బా! ఇన్ని differences ఉన్నాయా?"
+    },
+    {
+      "id": "end2",
+      "scene": "outro",
+      "speaker": "panda",
+      "voice_id": "VFbICGvBSvKmHwlI9rzA",
+      "tone": "[serious]",
+      "text": "కానీ గుర్తుంచుకో, మద్యం ఆరోగ్యానికి హానికరం. [cheerful] మీకు ఇంకా ఏ difference తెలియాలి? Comment చేయండి!"
+    }
+  ],
+  "thumbnail": {
+    "t": 10.4,
+    "kicker": "18+ · Difference ఏంటి?",
+    "line1": "కల్లు vs సారా",
+    "line2": "Liquor vs Liqueur?",
+    "sub": "Lager vs Ale · Red vs White · Champagne",
+    "badge": "5 Differences"
+  },
+  "sources": [
+    "Toddy: fermented palm/date-palm sap, not distilled; arrack: distilled spirit; illicit liquor methanol risk.",
+    "Liqueur: spirit + sugar + flavourings, typically lower ABV.",
+    "Lager bottom-fermenting/cold; ale top-fermenting/warm.",
+    "Red wine fermented with skins; white from juice.",
+    "Champagne: protected designation, Champagne region, France."
+  ]
+}

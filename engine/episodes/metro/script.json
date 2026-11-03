@@ -1,0 +1,129 @@
+{
+  "title": "Hyderabad Metro Phase 2: 5 కొత్త routes, 76 km",
+  "lead": 0.8,
+  "music": "bed-city",
+  "voice": {
+    "model_id": "eleven_v3",
+    "language_code": "te",
+    "voice_id": "RmsECPYd2k7yLIMTl1cR",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "reveal",
+      "tone": "[excited]",
+      "text": "Hyderabad Metro Phase 2 కి Centre green signal ఇచ్చింది. 76 kilometers, 5 new routes."
+    },
+    {
+      "id": "s2",
+      "scene": "phase1",
+      "tone": "[thoughtful]",
+      "text": "ముందు Phase 1 చూద్దాం. 2017 లో start అయ్యింది. Red line Miyapur నుంచి LB Nagar, Blue line Nagole నుంచి Raidurg, Green line JBS నుంచి MGBS. Ameerpet, Parade Ground, MGBS దగ్గర lines కలుస్తాయి. మొత్తం 69 kilometers, రోజూ దాదాపు 5 లక్షల మంది travel చేస్తారు."
+    },
+    {
+      "id": "s3",
+      "scene": "network",
+      "tone": "[amazed]",
+      "text": "Phase 2 కొత్త routes అన్నీ, ఈ Phase 1 lines చివరల నుంచే మొదలవుతాయి. అందుకే మొత్తం ఒకే network గా connect అవుతుంది, almost double."
+    },
+    {
+      "id": "s4",
+      "scene": "airport",
+      "tone": "[excited]",
+      "text": "Longest route, Nagole నుంచి Airport వరకు, 36 kilometers పైనే. LB Nagar, Karmanghat, Owaisi Hospital, Chandrayangutta, Mailardevpally, Aramghar, Shamshabad మీదుగా వెళ్తుంది."
+    },
+    {
+      "id": "s5",
+      "scene": "airride",
+      "tone": "[happy]",
+      "text": "Airport లో station underground లో ఉంటుంది. ఇక flight కి traffic tension లేదు."
+    },
+    {
+      "id": "s6",
+      "scene": "kokapet",
+      "tone": "[confident]",
+      "text": "Raidurg నుంచి Biodiversity, Nanakramguda, Wipro Junction, Financial District మీదుగా Kokapet Neopolis వరకు. IT employees కి పెద్ద relief."
+    },
+    {
+      "id": "s7",
+      "scene": "patancheru",
+      "tone": "[confident]",
+      "text": "Miyapur నుంచి Madinaguda, Chandanagar, BHEL, Beeramguda మీదుగా Patancheru వరకు."
+    },
+    {
+      "id": "s8",
+      "scene": "oldcity",
+      "tone": "[warmly]",
+      "text": "Old City లో MGBS నుంచి Charminar area, Falaknuma మీదుగా Chandrayangutta వరకు. అక్కడ airport line తో connect అవుతుంది."
+    },
+    {
+      "id": "s9",
+      "scene": "hayath",
+      "tone": "[excited]",
+      "text": "LB Nagar నుంచి Vanasthalipuram మీదుగా Hayathnagar వరకు."
+    },
+    {
+      "id": "s10",
+      "scene": "cost",
+      "tone": "[serious]",
+      "text": "Total cost ఇరవై నాలుగు వేల రెండు వందల అరవై తొమ్మిది కోట్ల రూపాయలు. State, Centre, international loans కలిసి ఈ money pay చేస్తారు."
+    },
+    {
+      "id": "s11",
+      "scene": "piles",
+      "tone": "[curious]",
+      "text": "అసలు metro ఎలా కడతారు? ముందు road మధ్యలో పెద్ద machines భూమిలోకి చాలా deep గా drill చేస్తాయి. ఆ hole లో steel cage దింపి, concrete పోస్తారు. ఇవే piles, మొత్తం metro కి foundation."
+    },
+    {
+      "id": "s12",
+      "scene": "pier",
+      "tone": "[confident]",
+      "text": "ఆ piles మీద pillars కడతారు. Pillar పైన T shape లో pier cap, track మొత్తం బరువు దాని మీదే ఉంటుంది."
+    },
+    {
+      "id": "s13",
+      "scene": "segments",
+      "tone": "[excited]",
+      "text": "Bridge ని site లో కట్టరు. Casting yard లో ready-made segments తయారుచేసి, రాత్రి పూట trailers లో తెస్తారు. Launching girder ఒక్కొక్క segment ని పైకి ఎత్తి, glue తో join చేసి, steel cables తో గట్టిగా బిగిస్తారు."
+    },
+    {
+      "id": "s14",
+      "scene": "track",
+      "tone": "[impressed]",
+      "text": "తర్వాత rails వేసి, పైన ఇరవై ఐదు వేల volts power line, signals పెడతారు. Trial runs, safety checks అన్నీ pass అయ్యాకే passengers కి open చేస్తారు."
+    },
+    {
+      "id": "s15",
+      "scene": "finale",
+      "tone": "[happy]",
+      "text": "Target 2029. Ready అయితే, daily traffic లో గంటలు save అవుతాయి. మీ area కి metro వస్తుందా? Comment చేయండి."
+    }
+  ],
+  "sources": [
+    "Centre's approval of Hyderabad Metro Phase 2 (Part A), reported 26 Oct 2026: 76.4 km, five corridors, Rs 24,269 crore, completion target 2029 (Trade Brains, Telangana Tribune, Gulte, Asianet Newsable)",
+    "Corridors: Nagole-Shamshabad Airport, Raidurg-Kokapet Neopolis, MGBS-Chandrayangutta, Miyapur-Patancheru, LB Nagar-Hayathnagar (Trade Brains, VMR)",
+    "Funding: Telangana about a third, Centre a smaller share, most from JICA/ADB/NDB loans, minor PPP (Trade Brains)",
+    "Phase 1: 69 km, three lines, open since 2017 (Trade Brains)",
+    "State had sought 122.9 km across seven corridors at Rs 38,595 crore (Telangana Tribune)",
+    "Map geometry is illustrative: station positions approximate",
+    "Elevated metro construction method (bored piles, piers and pier caps, precast segments from a casting yard, launching girder, epoxy joints and post-tensioning, track, 25 kV AC overhead line, trials and safety certification): standard Indian elevated-metro practice; Hyderabad Metro Phase 1 runs on 25 kV AC overhead traction",
+    "Phase 1: Red (Miyapur-LB Nagar) and Blue (Nagole-Raidurg) opened 29 Nov 2017, Green (JBS-MGBS) Feb 2020; 69 km, 3 corridors (HMRL); interchanges Ameerpet, Parade Ground, MGBS; ~5.1 lakh riders/day Jan 2024 (themetrorailguy, Wikipedia, 99acres)",
+    "Corridor IV Nagole-RGIA 36.6-36.8 km, 24 proposed stations incl. LB Nagar, Karmanghat, Owaisi Hospital, DRDO, Chandrayangutta, Mailardevpally, Aramghar, New High Court, Shamshabad; airport station underground; interchanges Nagole (Blue), LB Nagar (Red), Chandrayangutta (Wikipedia, HMRL)",
+    "Raidurg-Financial District/Kokapet via Biodiversity Jn, Nanakramguda Jn, Wipro Jn (themetrorailguy); Miyapur-Patancheru via Alwyn X Rd, Madinaguda, Chandanagar, Jyothi Nagar, BHEL, RC Puram, Beeramguda (Siasat, tentative); LB Nagar-Hayathnagar via Chintalkunta, Vanasthalipuram, Auto Nagar (99acres)",
+    "Caveat: Wikipedia's Corridor IV page says no Union nod on the DPR as of Oct 2026, while 26 Oct 2026 news reports describe central approval"
+  ],
+  "thumbnail": {
+    "t": 67.1,
+    "kicker": "Hyderabad Metro",
+    "line1": "Phase 2",
+    "line2": "5 కొత్త routes",
+    "sub": "మీ area ఉందా?",
+    "badge": "76 km"
+  },
+  "style": "Tinglish: everyday spoken Telugu with English words where people use them (metro, route, airport, IT corridor, pillars, segments, crane, traffic). No literary Telugu."
+}

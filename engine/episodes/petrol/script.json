@@ -1,0 +1,108 @@
+{
+  "title": "₹100 petrol lo government ki entha? Hyderabad petrol price explained",
+  "lead": 0.8,
+  "music": "bed-ambient",
+  "voice": {
+    "model_id": "eleven_v3",
+    "chunk": 700,
+    "language_code": "te",
+    "voice_id": "RmsECPYd2k7yLIMTl1cR",
+    "voice_settings": {
+      "stability": 0.0,
+      "similarity_boost": 0.8,
+      "use_speaker_boost": true
+    }
+  },
+  "segments": [
+    {
+      "id": "s1",
+      "scene": "hook",
+      "tone": "[curious]",
+      "text": "మీరు petrol bunk లో {₹100|వంద రూపాయలు} ఇస్తారు. [whispers] కానీ ఆ డబ్బు మొత్తం petrol కి వెళ్తుందా? [serious] లేదు. అందులో చాలా భాగం, వేరే జేబుల్లోకి వెళ్తుంది."
+    },
+    {
+      "id": "s2",
+      "scene": "pump",
+      "tone": "[serious]",
+      "text": "ఈరోజు Hyderabad లో ఒక litre petrol, {₹115.69|నూట పదిహేను రూపాయల అరవై తొమ్మిది పైసలు}. దేశంలోని పెద్ద cities అన్నిటికంటే ఎక్కువ. Delhi లో అదే petrol, {₹102.12|నూట రెండు రూపాయల పన్నెండు పైసలు} మాత్రమే."
+    },
+    {
+      "id": "s3",
+      "scene": "tanker",
+      "tone": "[curious]",
+      "text": "ఈ petrol ప్రయాణం ఎక్కడ మొదలవుతుంది? మన దేశానికి కావాల్సిన crude oil లో ఎక్కువ భాగం, విదేశాల నుంచి ship ల మీద వస్తుంది. Gulf దేశాల నుంచి, సముద్రం దాటి, మన ports కి."
+    },
+    {
+      "id": "s4",
+      "scene": "refinery",
+      "tone": "[serious]",
+      "text": "Port నుంచి refinery కి. ఇక్కడ crude ని వేడి చేసి, petrol, diesel గా విడదీస్తారు. Crude ధర, refining, transport, company లాభం, అన్నీ కలిపి, ఒక litre కి దాదాపు {₹69|అరవై తొమ్మిది రూపాయలు} అవుతుంది."
+    },
+    {
+      "id": "s5",
+      "scene": "split",
+      "tone": "[dramatic]",
+      "text": "ఇప్పుడు అసలు కథ. మీ {₹100|వంద రూపాయలు} ని ముక్కలు చేద్దాం. [pause] దాదాపు {₹60|అరవై రూపాయలు}, oil company కి. {₹4|నాలుగు రూపాయలు}, petrol bunk dealer కి."
+    },
+    {
+      "id": "s6",
+      "scene": "split",
+      "tone": "[serious]",
+      "text": "{₹10|పది రూపాయలు}, Central government కి, excise duty రూపంలో. [emphasizes] ఇంకా దాదాపు {₹26|ఇరవై ఆరు రూపాయలు}, State government కి, VAT రూపంలో."
+    },
+    {
+      "id": "s7",
+      "scene": "stamp",
+      "tone": "[shocked]",
+      "text": "అంటే మీరు ఇచ్చే ప్రతి {₹100|వంద రూపాయల} లో, దాదాపు {₹36|ముప్పై ఆరు రూపాయలు}, tax గానే వెళ్తోంది!"
+    },
+    {
+      "id": "s8",
+      "scene": "map",
+      "tone": "[curious]",
+      "text": "మరి Hyderabad లో ఎందుకు ఇంత ఎక్కువ? కారణం VAT. Telangana లో petrol మీద VAT {35.2%|ముప్పై ఐదు పాయింట్ రెండు శాతం}. Delhi లో అది {19.4%|పంతొమ్మిది పాయింట్ నాలుగు శాతం} మాత్రమే. ఆ తేడా వల్లే, Hyderabad లో ప్రతి litre కి దాదాపు {₹13.5|పదమూడున్నర రూపాయలు} ఎక్కువ కడుతున్నాం."
+    },
+    {
+      "id": "s9",
+      "scene": "trick",
+      "tone": "[thoughtful]",
+      "text": "ఇంకో విషయం. VAT ఒక శాతం. అంటే petrol ధర పెరిగితే, State కి వచ్చే tax కూడా ఆటోమేటిక్ గా పెరుగుతుంది. Centre excise మాత్రం litre కి fixed amount."
+    },
+    {
+      "id": "s10",
+      "scene": "chart",
+      "tone": "[serious]",
+      "text": "ఈ సంవత్సరం March లో, Centre excise ని litre కి {₹10|పది రూపాయలు} తగ్గించింది. కానీ May లో, West Asia లో గొడవల వల్ల crude ధరలు పెరిగాయి. Petrol మళ్ళీ పెరిగింది. Delhi లో {₹95|తొంభై ఐదు రూపాయల} నుంచి, {₹102|నూట రెండు రూపాయలకు}."
+    },
+    {
+      "id": "s11",
+      "scene": "wallet",
+      "tone": "[serious]",
+      "text": "ఇప్పుడు మీ లెక్క చూద్దాం. మీరు నెలకి {30|ముప్పై} litres petrol కొంటే, దాదాపు {₹1,250|పన్నెండు వందల యాభై రూపాయలు} tax కడుతున్నారు. [emphasizes] సంవత్సరానికి, దాదాపు {₹15,000|పదిహేను వేల రూపాయలు}!"
+    },
+    {
+      "id": "s12",
+      "scene": "finale",
+      "tone": "[sincere]",
+      "text": "తర్వాత సారి bunk లో {₹100|వంద రూపాయలు} ఇచ్చినప్పుడు, ఈ లెక్క గుర్తుపెట్టుకోండి. మీరు నెలకి petrol కి ఎంత పెడతారు? Comment చేయండి."
+    }
+  ],
+  "sources": [
+    "Retail petrol Delhi ₹102.12, Mumbai 111.21, Chennai 107.77, Kolkata 113.51 (PPAC daily metro table, 29 Oct 2026)",
+    "Delhi build-up eff. 1 Oct 2026: price to dealer incl. excise ₹81.12, dealer commission ₹4.41, VAT 19.4% ₹16.59 (BPCL, as reported)",
+    "Excise ₹11.90/L after SAED cut ₹13→₹3 on 26 Mar 2026 (Notification 11/2026-CE; MyCarHelpline)",
+    "Hyderabad ₹115.69 (Upstox / MyCarHelpline); Telangana VAT 35.2% — (81.12+4.41)×1.352 = ₹115.64 reconciles",
+    "Delhi ₹94.77 on 1 Apr 2026 (Business Standard); hikes in May 2026 on West Asia crisis (BusinessToday 19 May 2026)",
+    "Hyderabad costliest metro (Telangana Today, 15 May 2026)",
+    "Monthly example is illustrative: 30 L × (₹30.1 VAT + ₹11.9 excise) ≈ ₹1,260; ×12 ≈ ₹15,100"
+  ],
+  "thumbnail": {
+    "t": 2.0,
+    "kicker": "Your ₹100 petrol",
+    "line1": "₹36 TAX!",
+    "line2": "ఎవరి జేబులోకి?",
+    "sub": "Hyderabad ₹115.69 / litre",
+    "badge": "Centre vs State"
+  },
+  "style": "Tinglish. Every spoken number in Telugu words via {display|spoken}. Visual style: episodes/petrol/style.md."
+}

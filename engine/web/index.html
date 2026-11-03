@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="te">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1080" />
+<title>Explainer stage</title>
+<link rel="stylesheet" href="/node_modules/@fontsource/anek-telugu/telugu-600.css" />
+<link rel="stylesheet" href="/node_modules/@fontsource/anek-telugu/telugu-500.css" />
+<link rel="stylesheet" href="/node_modules/@fontsource/anek-telugu/latin-600.css" />
+<link rel="stylesheet" href="/node_modules/@fontsource/inter-tight/latin-500.css" />
+<link rel="stylesheet" href="/node_modules/@fontsource/inter-tight/latin-700.css" />
+<link rel="stylesheet" href="/node_modules/@fontsource/inter-tight/latin-800.css" />
+<style>
+  :root { --ink:#1d1e21; --paper:#f3f1eb; --muted:#8f8f8f; }
+  html, body { margin:0; background:#e8e4db; overflow:hidden; }
+  #frame { position:relative; width:1080px; height:1920px; overflow:hidden; }
+  #frame canvas { position:absolute; inset:0; width:1080px !important; height:1920px !important; }
+  #overlay { position:absolute; inset:0; font-family:"Inter Tight","Anek Telugu",sans-serif; color:var(--ink); pointer-events:none; }
+  .lines { position:absolute; inset:0; width:100%; height:100%; overflow:visible; }
+  .lines polyline { fill:none; stroke:var(--ink); stroke-width:2.6; }
+  .lines circle { fill:var(--paper); stroke:var(--ink); stroke-width:2.6; }
+
+  .callout { position:absolute; white-space:nowrap; font-size:40px; background:rgba(232,228,219,0.82); font-weight:600; letter-spacing:-0.01em;
+    padding:4px 2px 8px; border-bottom:2.4px solid var(--ink); font-family:"Anek Telugu","Inter Tight",sans-serif; }
+  .callout.pill { background:var(--paper); border:2.4px solid var(--ink); border-radius:40px; padding:8px 26px 10px; }
+
+  .stepper { position:absolute; top:120px; left:64px; right:64px; height:60px; }
+  .stepper .track { position:absolute; left:0; right:0; top:44px; height:3px; background:#b8b5ad; }
+  .stepper .mark { position:absolute; top:-9px; width:20px; height:20px; margin-left:-10px; border-radius:50%;
+    background:var(--paper); border:3px solid #b8b5ad; box-sizing:border-box; }
+  .stepper .mark.done { background:#b8b5ad; }
+  .stepper .mark.on { width:44px; height:22px; margin-left:-22px; top:-10px; border-radius:6px; background:var(--ink); border-color:var(--ink); }
+  .stepper .tag { position:absolute; top:-6px; transform:translateX(-50%); font-size:30px; font-weight:600;
+    font-family:"Anek Telugu","Inter Tight"; white-space:nowrap; }
+
+  .stat { position:absolute; left:40px; padding:10px 22px 14px 18px; border-radius:14px; background:rgba(232,228,219,0.88); }
+  .stat .value { font-size:112px; font-weight:800; letter-spacing:-0.045em; line-height:0.95; font-variant-numeric:tabular-nums; }
+  .stat .value.te { font-family:"Anek Telugu","Inter Tight"; font-size:80px; font-weight:600; letter-spacing:-0.01em; line-height:1.1; }
+  .stat .label { font-family:"Anek Telugu"; font-size:32px; font-weight:600; margin-top:6px; }
+
+  .chip { position:absolute; font-size:26px; font-weight:500; padding:6px 18px 7px; border:2px solid #6d6d6d; border-radius:30px;
+    background:rgba(243,241,235,0.9); color:#3b3b3b; white-space:nowrap; font-family:"Inter Tight","Anek Telugu"; }
+  .chip.big { font-size:32px; font-weight:600; padding:8px 22px 10px; border-radius:40px; background:rgba(250,248,243,0.92); border:none; font-family:"Anek Telugu","Inter Tight"; }
+  .chip.big.warn { background:rgba(214,50,42,0.92); color:#fff; }
+  .chip.illustrative { border-style:dashed; }
+
+  .readout { position:absolute; left:56px; bottom:640px; display:flex; align-items:baseline; gap:14px; background:var(--ink);
+    color:var(--paper); padding:16px 30px 18px 22px; border-radius:12px; }
+  .readout .bar { width:8px; height:46px; border-radius:3px; align-self:center; }
+  .readout .v { font-size:52px; font-weight:700; font-variant-numeric:tabular-nums; }
+  .readout .u { font-family:"Anek Telugu"; font-size:34px; font-weight:500; }
+  .readout .n { font-family:"Anek Telugu"; font-size:30px; color:#9a9a9a; margin-left:18px; }
+
+  .clock { position:absolute; top:236px; right:64px; font-family:"Inter Tight"; font-size:74px; font-weight:700; color:var(--paper);
+    background:var(--ink); padding:10px 30px 14px; border-radius:14px; border:4px solid #4a4c51; font-variant-numeric:tabular-nums; letter-spacing:0.02em; }
+  .clock.urgent { background:#e5483b; border-color:#ff8a7f; }
+
+  .caption { position:absolute; left:50%; bottom:420px; transform:translateX(-50%); white-space:nowrap; text-align:center;
+    font-family:"Anek Telugu","Inter Tight"; font-size:62px; font-weight:600; line-height:1.25; color:#8a8a8a;
+    background:var(--ink); padding:14px 34px 20px; border-radius:16px; }
+  .caption .said { color:var(--paper); }
+</style>
+</head>
+<body>
+<div id="frame"><div id="overlay"></div></div>
+<script type="importmap">
+{ "imports": {
+  "three": "/node_modules/three/build/three.module.js",
+  "three/addons/": "/node_modules/three/examples/jsm/"
+} }
+</script>
+<script type="module" src="./player.js"></script>
+</body>
+</html>
